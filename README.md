@@ -12,7 +12,7 @@ This repository gives us a chance to practice using git and virtual environments
 
 ![Screenshot showing code button and URL to copy](assets/code_button.png)
 
-3. Open a terminal on your computer, and navigate to the directory where you wish to copy this exercise's code to. Once you are in the desired directory, run this command, using the URL you copied in the previous step: 
+3. Open a terminal on your computer,python main.pyand navigate to the directory where you wish to copy this exercise's code to. Once you are in the desired directory, run this command, using the URL you copied in the previous step: 
 
 ```git clone YOUR_REPO_URL```
 
